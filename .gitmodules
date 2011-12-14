@@ -73,3 +73,9 @@
 	path = bundle/matchit
 	url = git://github.com/vim-scripts/matchit.zip.git
  ignore=dirty
+[submodule "bundle/zencoding-vim"]
+	path = bundle/zencoding-vim
+	url = https://github.com/mattn/zencoding-vim.git
+[submodule "bundle/html5-syntax"]
+	path = bundle/html5-syntax
+	url = https://github.com/othree/html5-syntax.vim.git

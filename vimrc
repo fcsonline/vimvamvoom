@@ -39,11 +39,11 @@ set statusline+=%l/%L                     "cursor line/total lines
 set statusline+=\ %P                      "percent through file
 set laststatus=2
 
-set linespace=1
-set guifont=Monaco:h12
-set t_Co=256
-set background=dark
-colorscheme default
+"set linespace=1
+"set guifont='Droid Sans Mono':h12
+"set t_Co=256
+
+colorscheme darkblue2
 
 " Display extra whitespace
 set list listchars=tab:..,trail:·

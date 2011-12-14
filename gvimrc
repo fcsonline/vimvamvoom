@@ -10,7 +10,7 @@ set guioptions-=T
 " Use console dialogs
 set guioptions+=c
 
-colorscheme ir_black
+colorscheme darkblue
 
 set showtabline=2 " always show tabs in gvim, but not vim
 
