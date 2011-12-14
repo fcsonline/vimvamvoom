@@ -45,6 +45,14 @@ set laststatus=2
 
 colorscheme darkblue2
 
+" Common aliases
+cab Q q
+cab Wq wq
+cab W w
+cab WQ wq
+
+cab uniq %s/^\(.*\)\(\n\1\)\+$/\1/
+
 " Display extra whitespace
 set list listchars=tab:..,trail:·
 
